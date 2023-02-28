@@ -1,4 +1,6 @@
-# Registration is Powerful for Self-supervised Pre-training! Geometric Visual Similarity Learning in 3D Medical Image Self-supervised Pre-training
+# Registration is Powerful for Self-supervised Pre-training!
+
+## Geometric Visual Similarity Learning in 3D Medical Image Self-supervised Pre-training
 
 [NEWS!]**This paper has been accpeted by CVPR 2023! The basic code on [pytorch](https://github.com/YutingHe-list/GVSL) has been opened!**
 
