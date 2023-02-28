@@ -1,4 +1,4 @@
-<p align="center"><img width="70%" src="fig/name.png" /></p>
+<p align="center"><img width="100%" src="fig/name.png" /></p>
 
 # Registration is Powerful for Self-supervised Pre-training!
 
