@@ -2,8 +2,6 @@
 
 --------------------------------------------------------------------------------
 
-# Geometric matching is Powerful Self-supervised Pre-trainer!
-
 [NEWS!]**This paper has been accpeted by CVPR 2023! The basic code on [pytorch](https://github.com/YutingHe-list/GVSL) has been opened!**
 
 [NOTE!!]**The code will be gradually and continuously opened!**
