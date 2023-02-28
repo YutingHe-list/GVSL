@@ -1,6 +1,5 @@
 <p align="center"><img width="100%" src="fig/name.png" /></p>
-
-# Registration & Geometric matching is Powerful Self-supervised Pre-trainer!
+# Geometric matching is Powerful Self-supervised Pre-trainer!
 
 [NEWS!]**This paper has been accpeted by CVPR 2023! The basic code on [pytorch](https://github.com/YutingHe-list/GVSL) has been opened!**
 
