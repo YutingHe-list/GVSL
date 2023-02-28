@@ -6,7 +6,7 @@
 
 [NOTE!!]**The code will be gradually and continuously opened!**
 
-Learning inter-image similarity is crucial for 3D medical images self-supervised pre-training, due to their sharing of numerous same semantic regions. However, the lack of the semantic prior in metrics and the semantic-independent variation in 3D medical images make it challenging to get a reliable measurement for the inter-image similarity, hindering the learning of consistent representation for same semantics. We investigate the challenging problem of this task, i.e., learning a consistent representation between images for a clustering effect of same semantic features.
+Learning inter-image similarity is crucial for 3D medical images self-supervised pre-training, due to their sharing of numerous same semantic regions. However, the lack of the semantic prior in metrics and the semantic-independent variation in 3D medical images make it challenging to get a reliable measurement for the inter-image similarity, hindering the learning of consistent representation for same semantics. We investigate the challenging problem of this task, i.e., learning a consistent representation between images for a clustering effect of same semantic features. Our Geometric Visual Similarity Learning embeds the prior of topological invariance into the measurement of the inter-image similarity for consistent representation of semantic regions.
 
 <p align="center"><img width="70%" src="fig/fig2.png" /></p>
 
@@ -14,9 +14,16 @@ Learning inter-image similarity is crucial for 3D medical images self-supervised
 This repository provides the official PyTorch implementation of GVSL in the following papers:
 
 **Geometric Visual Similarity Learning in 3D Medical Image Self-supervised Pre-training** <br/> 
-[Yuting He](http://19951124.academic.site/?lang=en), [Guanyu Yang*](https://cse.seu.edu.cn/2019/0103/c23024a257233/page.htm), Rongjun Ge, Yang Chen, Jean-Louis Coatrieux,  Boyu Wang, [Shuo Li](http://www.digitalimaginggroup.ca/members/shuo.php) <br/>
+[Yuting He](https://yutinghe-list.github.io/), [Guanyu Yang*](https://cse.seu.edu.cn/2019/0103/c23024a257233/page.htm), Rongjun Ge, Yang Chen, Jean-Louis Coatrieux,  Boyu Wang, [Shuo Li](http://www.digitalimaginggroup.ca/members/shuo.php) <br/>
 Southeast University <br/>
 **IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023**<br/>
+
+## Citation
+If you use this code or use our pre-trained weights for your research, please cite our papers:
+```
+Waiting
+```
+
 
 ## Acknowledgments
 
