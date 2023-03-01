@@ -13,7 +13,7 @@ Learning inter-image similarity is crucial for 3D medical images self-supervised
 ## Paper
 This repository provides the official PyTorch implementation of GVSL in the following papers:
 
-**Geometric Visual Similarity Learning in 3D Medical Image Self-supervised Pre-training** <br/> 
+**[Geometric Visual Similarity Learning in 3D Medical Image Self-supervised Pre-training](https://github.com/YutingHe-list/GVSL/blob/main/paper/GVSLpaper.pdf)** <br/> 
 [Yuting He](https://yutinghe-list.github.io/), [Guanyu Yang*](https://cse.seu.edu.cn/2019/0103/c23024a257233/page.htm), Rongjun Ge, Yang Chen, Jean-Louis Coatrieux,  Boyu Wang, [Shuo Li](http://www.digitalimaginggroup.ca/members/shuo.php) <br/>
 Southeast University <br/>
 **IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023**<br/>
