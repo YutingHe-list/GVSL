@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-[NEWS!]**This paper has been accpeted by CVPR 2023! The basic code on [PyTorch](https://github.com/YutingHe-list/GVSL/tree/main/PyTorch) has been opened!**
+[NEWS!]**This paper has been accpeted by [CVPR 2023](https://cvpr.thecvf.com/)! The basic code on [PyTorch](https://github.com/YutingHe-list/GVSL/tree/main/PyTorch) has been opened!**
 
 [NOTE!!]**The code will be gradually and continuously opened!**
 
@@ -13,15 +13,22 @@ Learning inter-image similarity is crucial for 3D medical images self-supervised
 ## Paper
 This repository provides the official PyTorch implementation of GVSL in the following papers:
 
-**[Geometric Visual Similarity Learning in 3D Medical Image Self-supervised Pre-training](https://github.com/YutingHe-list/GVSL/blob/main/paper/GVSLpaper.pdf)** <br/> 
-[Yuting He](https://yutinghe-list.github.io/), [Guanyu Yang*](https://cse.seu.edu.cn/2019/0103/c23024a257233/page.htm), Rongjun Ge, Yang Chen, Jean-Louis Coatrieux,  Boyu Wang, [Shuo Li](http://www.digitalimaginggroup.ca/members/shuo.php) <br/>
+**[Geometric Visual Similarity Learning in 3D Medical Image Self-supervised Pre-training](https://arxiv.org/abs/2303.00874)** <br/> 
+[Yuting He](https://yutinghe-list.github.io/), [Guanyu Yang*](https://cse.seu.edu.cn/2019/0103/c23024a257233/page.htm), [Rongjun Ge](https://scholar.google.com/citations?user=v8K8HIkAAAAJ&hl=en), [Yang Chen](https://scholar.google.com/citations?user=LxjxwpgAAAAJ&hl=en), Jean-Louis Coatrieux,  [Boyu Wang](https://sites.google.com/site/borriewang/), [Shuo Li](http://www.digitalimaginggroup.ca/members/shuo.php) <br/>
 Southeast University <br/>
 **IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023**<br/>
 
 ## Citation
 If you use this code or use our pre-trained weights for your research, please cite our papers:
 ```
-Waiting
+@InProceedings{He_2023_CVPR,
+    author    = {Yuting He, Guanyu Yang, Rongjun Ge, Yang Chen, Jean-Louis Coatrieux, Boyu Wang, Shuo Li},
+    title     = {Geometric Visual Similarity Learning in 3D Medical Image Self-supervised Pre-training},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {}
+}
 ```
 
 
