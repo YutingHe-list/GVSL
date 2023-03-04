@@ -1,8 +1,8 @@
-[<p align="center"><img width="100%" src="fig/name.png" /></p>](https://x-ark.github.io/)
+<p align="center"><img width="100%" src="fig/name.png" /></p>
 
 --------------------------------------------------------------------------------
 
-[NEWS!]**This paper has been accpeted by [CVPR 2023](https://cvpr.thecvf.com/)! The basic code on [PyTorch](https://github.com/YutingHe-list/GVSL/tree/main/PyTorch) has been opened!**
+[NEWS!]**This paper has been accpeted by [CVPR 2023](https://cvpr.thecvf.com/)! The basic code on [PyTorch](https://github.com/YutingHe-list/GVSL/tree/main/PyTorch) has been opened!** [Homepage](https://x-ark.github.io/)
 
 [NOTE!!]**The code will be gradually and continuously opened!**
 
