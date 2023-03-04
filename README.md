@@ -19,6 +19,10 @@ This repository provides the official PyTorch implementation of GVSL in the foll
 Southeast University <br/>
 **IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023**<br/>
 
+## Pre-trained weights
+
+We are gradually opening up pre-trained parameters on more datasets, please focus on our **[Pre-Trained Model Zoo](https://github.com/YutingHe-list/GVSL/tree/main/PyTorch/Downstream/pre_weight)** page.
+
 ## Citation
 If you use this code or use our pre-trained weights for your research, please cite our papers:
 ```
