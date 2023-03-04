@@ -1,4 +1,4 @@
-# Pre-trained Weight Zoo
+# Pre-Trained Model Zoo
 
 The official pre-trained weights are available in
 
