@@ -27,7 +27,7 @@ We are gradually opening up pre-trained parameters on more datasets, please focu
 If you use this code or use our pre-trained weights for your research, please cite our papers:
 ```
 @InProceedings{He_2023_CVPR,
-    author    = {Yuting He, Guanyu Yang, Rongjun Ge, Yang Chen, Jean-Louis Coatrieux, Boyu Wang, Shuo Li},
+    author    = {He, Yuting and Yang, Guanyu and Ge, Rongjun and Chen, Yang and Coatrieux, Jean-Louis and Wang, Boyu and Li, Shuo},
     title     = {Geometric Visual Similarity Learning in 3D Medical Image Self-supervised Pre-training},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     month     = {June},
