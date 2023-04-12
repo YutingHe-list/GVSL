@@ -22,7 +22,6 @@ wait
 
 ## Official implementation
 - [PyTorch/](https://github.com/YutingHe-list/BRBS/tree/main/pytorch)
-- [MindSpore/](https://github.com/YutingHe-list/BRBS/tree/main/mindspore)
 
 ## Acknowledgments
 This research was supported by the National Key Research and Development Program of China (No. 2021ZD0113202), National Natural Science Foundation under grants (61828101, 62101249), Natural Science Foundation of Jiangsu Province (BK20210291), Excellence Project Funds of Southeast University, CAAI-Huawei MindSpore Open Fund, and Scientific Research Foundation of Graduate School of Southeast University (YBPY2139). We thank the Big Data Computing Center of Southeast University for providing the facility support on the numerical calculations. 
