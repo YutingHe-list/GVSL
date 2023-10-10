@@ -5,10 +5,10 @@ from torch.utils import data
 import numpy as np
 
 def is_image_file(filename):
-    return any(filename.endswith(extension) for extension in [".nii"])
+    return any(filename.endswith(extension) for extension in [".nii", ".nii.gz"])
 
 class DatasetFromFolder3D(data.Dataset):
-    def __init__(self, labeled_file_dir, num_classes, shape=(128, 128, 128)):
+    def __init__(self, labeled_file_dir, num_classes, shape=None):
         super(DatasetFromFolder3D, self).__init__()
         self.labeled_filenames = [x for x in listdir(join(labeled_file_dir, 'image')) if is_image_file(x)]
         self.labeled_file_dir = labeled_file_dir
@@ -35,7 +35,8 @@ class DatasetFromFolder3D(data.Dataset):
         lab = np.where(lab == 850, 7, lab)
         lab = self.to_categorical(lab, self.num_classes)
 
-        img, lab = self.reshape_img(img, lab, self.shape)
+        if self.shape is not None:
+            img, lab = self.reshape_img(img, lab, self.shape)
         img = img.astype(np.float32)
         lab = lab.astype(np.float32)
 
